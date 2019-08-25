@@ -1,6 +1,8 @@
-# track_me
+# Trackerhe
 
-A tracking application
+A tracking application. When tracking is enabled, the application start recording the latitude and longitude of the device in a text file.
+the application was created usig Flutter.
+
 
 ## Getting Started
 
